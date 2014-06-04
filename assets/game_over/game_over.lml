@@ -1,0 +1,8 @@
+<sprinter.views.GameOverView>
+
+    <loom.css.StyleSheet source="assets/game_over/main.css"/>
+
+	<loom2d.ui.SimpleLabel id="scoreLabel" styleName="score_label" />
+    <sprinter.ui.ClickableLabel id="retryButton" styleName="retry_button" />
+
+</sprinter.views.GameOverView>

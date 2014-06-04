@@ -1,0 +1,8 @@
+<sprinter.views.MainMenuView>
+
+    <loom.css.StyleSheet source="assets/main_menu/main.css"/>
+
+	<loom2d.ui.SimpleLabel id="titleLabel" styleName="menu_label" />
+    <sprinter.ui.ClickableLabel id="playButton" styleName="play_button" />
+
+</sprinter.views.MainMenuView>
